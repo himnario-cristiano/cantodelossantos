@@ -1,20 +1,20 @@
 {
-  "name": "El Me Liberó",
-  "short_name": "El Me Liberó",
+  "name": "Canto De Los Santos",
+  "short_name": "Canto De Los Santos",
   "description": "Reproductor de himnos y cantos cristianos",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#00013B",
-  "theme_color": "#00013B",
+  "background_color": "#001e12",
+  "theme_color": "#001e12",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "el-me-libero.png",
+      "src": "logo-cantos-de-los-santos.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "el-me-libero.png",
+      "src": "logo-cantos-de-los-santos.png",
       "sizes": "512x512",
       "type": "image/png"
     }
