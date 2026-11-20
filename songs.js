@@ -221,6 +221,226 @@
                 src: "https://www.dropbox.com/scl/fi/jhf9v99eq551ows51d6tj/020_confioyoencristo.mp3?rlkey=tji4avhm5u5jbndws7bskoxtx&st=gzl9jwrs&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "021 - Alguna vez ya no estaré",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/m71npkhhp3pcmuark1bcj/021_algunavezyanoestare.mp3?rlkey=cuzktyr1f78kl37ul0gjv9pg3&st=220soy5b&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "022 - Fuente de la vida eterna",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/z0u4phol62qtyt3kkg3md/022_fuentedelavidaeterna_sd.pdf?rlkey=hbzkixyhbytdrcztl8wixvz7z&st=7o6okf7z&dl=0",
+                src: "https://www.dropbox.com/scl/fi/rbsygk092pc1423qju2g8/022_fuentedelavidaeterna.mp3?rlkey=d0rjj23wznvm8owznuv0dqdec&st=miiig25m&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "023 - Oh háblame, Señor",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ayx1afav0ehlsvhhn90bb/023_ohhablamesenor.mp3?rlkey=d9z9meekyumyfmqcha4o3xsvu&st=mcswxibb&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "024 - La Palabra hoy sembrada",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/li3vknhc3y28tf4799a8j/024_lapalabrahoysembrada_sd.pdf?rlkey=3o7qffhbo66xswlw2rsa670ke&st=yf9uhyom&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9b7gogpadxrxkjxutsbc6/024_lapalabrahoysembrada.mp3?rlkey=gskh0b1q8temewp5878kjzurz&st=eb62l8og&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "025 - Meditad",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4br5xxhr4c1hc3wfretb2/025_meditad_sd.pdf?rlkey=0nfe5cxcm0cb3wr34yr0n912t&st=4po7a91n&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ae95e05btczfews64umyb/025_meditad.mp3?rlkey=udf8i446y9bdqdusfutll5ez3&st=80df8dke&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "026 - Jesús, yo he prometido",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/intkg1woizhv04s9569yj/026_jesusyoheprometido_sd.pdf?rlkey=oklwbzlhmwr2glng1lmpvxh6h&st=vjv6d1ei&dl=0",
+                src: "https://www.dropbox.com/scl/fi/xj7lwrvs7v2cjk222fzk2/026_jesusyoheprometido.mp3?rlkey=zasbf3zmqbd83tzxbnmwa2d3q&st=9g9pe48j&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "027 - Padre, tu palabra es",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/vj1cgl1gz89n7vzgh0cus/027_padretupalabraes_sd.pdf?rlkey=94eb5ajeli0c9vpohwni11j0w&st=34wfk3f1&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vxdovw25royzi6x9twrsa/027_padretupalabraes.mp3?rlkey=phjiv6b48ixy7jlyfm2jar5qe&st=jbnzvjos&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "028 - Pronto la noche viene",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/opmf5sywlwzjgu4zfxzsk/028_prontolanocheviene_sd.pdf?rlkey=kspkksx3u6khy3me7a800dp76&st=vocqhhb4&dl=0",
+                src: "https://www.dropbox.com/scl/fi/orrpdltug7mvotceh06tf/028_prontolanocheviene.mp3?rlkey=s93a0f6k1alriwus2ovshjfzx&st=swg46frz&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "029 - Ya venimos, cual hermanos",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/lihzqjytvw8lt42bktepf/029_yavenimoscualhermanos_sd.pdf?rlkey=pw6ahrpdg36mdf6376v37uflr&st=du4mrb25&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ffrmbs8xssfpf1ukmj9lf/029_yavenimoscualhermanos.mp3?rlkey=r0m9cbi7qtxb6t5vlou0eqqqb&st=tyhof8ar&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "030 - La Santa Cena",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/p273cn2d9g3fxmz8oy1yh/030_lasantacena_sd.pdf?rlkey=yce2o7lmlrazl28p4q2ybna8w&st=1qvisdgw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/twmmvtnmi32gofyy0iq4s/030_santacena.mp3?rlkey=ly8f7liwq67gsy4hzp7cleuom&st=l8tr1af3&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "031 - Cabeza ensangrentada",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/3yigenve7h2nqztx3h1fa/031_cabezaensangrentada.mp3?rlkey=tweyowwvqny1sn5j9jfesf7xn&st=rxl71w7p&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "032 - La gloria de Jehová",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/kkfegaxzglra4jobyxyhw/032_lagloriadejehova_sd.pdf?rlkey=finjrpy3oqp1obg79ifmmfliq&st=6wnz3wfb&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ztlbtuo2bc5miyp6o5lww/032_lagloriadejehova.mp3?rlkey=rtaf87qrwggthruw13pvg4uyz&st=tjxt7gh9&dl=0v",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "033 - Salvador, a ti me rindo",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/he0tfy0zbtyj84fnhzedf/033_salvadoratimerindo.mp3?rlkey=qn1p0j7fsi1c233bxnj5h07qe&st=tdtatp17&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "034 - Hay un precioso manantial",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/3086amljb9impx956l2hw/034_hayunpreciosomanantial_sd.pdf?rlkey=d1kkitp0ho26yqglj4effbp9h&st=gaevo13l&dl=0",
+                src: "https://www.dropbox.com/scl/fi/yzuq8ea5co6iq6z3v7k8e/034_hayunpreciosomanantial.mp3?rlkey=1xg48obiogqrtl4h8rqi17noz&st=v110ld42&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "035 - Hay un mundo feliz",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0lcq7j4cia8y6aomkirss/035_hayunmundofeliz_sd.pdf?rlkey=k2x5t4qffen7n7lxqvpj09io5&st=aolez793&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jt8jkxdm14c6jbqxzh0yg/035_hayunmundofeliz.mp3?rlkey=j7y37wl78vikm8juz3wajo5ib&st=mxpmfrfd&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "036 - Pecador, ven al dulce Jesús",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/7zigbt8i2cqhwbknjhx23/036_pecadorvenaldulcejesus_sd.pdf?rlkey=fm657ku855jzem9zgi0ufqugu&st=60mzg7q2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ly9ti11hxfatl3fn0ztav/036_pecadorvenaldulcejesus.mp3?rlkey=er1vl8odl1g1tprtyte0u3pil&st=xlx5ryim&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "037 - Dulce paz",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ys5k0zwl5pcaozovpzqpk/037_dulcepaz.mp3?rlkey=ndwpmjmm8ntv879a3vd5xc3vd&st=kflpeyy2&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "038 - Nunca te olvidaré",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/vey9z3ay3sluirmhf6q6g/038_nuncateolvidare.mp3?rlkey=3su61by2ycbjfi186mrxlczcc&st=6b2jdgx6&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "039 - Santa Biblia",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/uo4b0jfspjyjxtch04ahm/039_santabibliaparami_sd.pdf?rlkey=ewgfce0gzyr6z7ryh4z3evy5i&st=t5mxxf07&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3r0th2t3ltreh2smzze5t/039_santabiblia.mp3?rlkey=oqundyw5i9fgkestqibtuqw2h&st=swkya3eb&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "040 - ¿Cómo podrá la juventud?",
+                artist: "Cantos De Los Santos",
+				allowDownload: true,
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/mvzaciqluutwdqhvy8o8u/040_comopodralajuventud.mp3?rlkey=gya75ctr50n3lcx7pkth7xpil&st=kh04u5qc&dl=0",
+                references: [
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             }
             
         ];
