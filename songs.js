@@ -19,7 +19,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/1tefneziz6ydk0vs589po/002_cantaohbuencristiano_sd.pdf?rlkey=a5ljqtkl3lh96lzg9gfr8py48&st=89nju2jm&dl=0",
                 src: "https://www.dropbox.com/scl/fi/aeb4x94rifozs5jdf737t/002_cantaohbuencristiano.mp3?rlkey=6zudqphgw7evlzqrr4ztmb5sr&st=jm2zm6xf&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -30,7 +30,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/8e7z829igu7cz6723n13w/003_elamor_sd.pdf?rlkey=sqj90adh86d0bd9xpa401c3w4&st=f8arbu2a&dl=0",
                 src: "https://www.dropbox.com/scl/fi/bhpxolgjr8fcdaktn3d3f/003_elamor.mp3?rlkey=3qfbb0v5biu4f6cfpcqni65cb&st=5e9fgrlj&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -41,7 +41,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/iyfacb70c4kr596f3rtmr/004_notedetemor_sd.pdf?rlkey=oc931vbsi4wim5fuad3hcg216&st=x7udjswd&dl=0",
                 src: "https://www.dropbox.com/scl/fi/g63eiwnrwe8wm8ly1ullt/004_notedetemor.mp3?rlkey=nc3mg774mkpa0vdnxqejzh3fs&st=ol9mxnkj&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -52,7 +52,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/bq62w8zzvn78m9zshpuxk/005_ohbondadtaninfinita_sd.pdf?rlkey=1d89syaaql40qc48rmyhaz2id&st=wwr7f8ej&dl=0",
                 src: "https://www.dropbox.com/scl/fi/xlmkjm1ftikou9pdt4tax/005_ohbondadtaninfinita.mp3?rlkey=hthan8z0q5n2h4omvh5ei1391&st=to5zz300&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -63,7 +63,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/27jcaecenodhmdiomzh8q/006_bellaspalabrasdevida_sd.pdf?rlkey=su1gamivnrlxk8xysy85tpjbo&st=8rmr7ohu&dl=0",
                 src: "https://www.dropbox.com/scl/fi/u7g6trukuaoxxpgsozxja/006_bellaspalabrasdevida.mp3?rlkey=xmffiaz081r1pv9w8zlubtszc&st=6upsuhyg&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -85,7 +85,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/x2jnvw15z2ac4xnpth4ym/008_gloriaael_sd.pdf?rlkey=ictyp7ofxwaa5b2ux1juqupg2&st=8xor0tn1&dl=0",
                 src: "https://www.dropbox.com/scl/fi/81n2yeswnma7rpa5sadfr/008_gloriaael.mp3?rlkey=fiqj9wsopbbirgvtx0n217dpy&st=0b255qti&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -96,7 +96,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/eyckuhcp6yas7mn0qzzv9/009_lugarparacristo_sd.pdf?rlkey=tkpq08vorcuafbthbabhssyzx&st=43z9g0tx&dl=0",
                 src: "https://www.dropbox.com/scl/fi/u6pe21u97ohhx5mk7nrke/009_lugarparacristo.mp3?rlkey=3l5pnnv8kp6otub17cj19ka1v&st=h5jx1gxi&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -129,7 +129,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/bih8ztuex52sig4qv5gd2/012_rocadelaeternidad_sd.pdf?rlkey=rq1kglzaczv4h5glrn3y4zssh&st=j4cq5pt8&dl=0",
                 src: "https://www.dropbox.com/scl/fi/75gbljdeq6ehzneos5qcj/012_rocadelaeternidad.mp3?rlkey=r431k36ppgazau2qhj2dkz52h&st=7kynk5wc&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -140,7 +140,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/5asrh88ui2x4o7sv1o63m/013_dulceoracion_sd.pdf?rlkey=4k4q9k812xh3glj4w7hslgk1j&st=ivewn8wr&dl=0",
                 src: "https://www.dropbox.com/scl/fi/mmwixd964ezfy9jek698u/013_dulceoracion.mp3?rlkey=xrx4elhkx257qy1m2mie46m1b&st=m4hvdj1t&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -151,7 +151,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/6v7lb640qajy1j44dj58g/014_ohqueamigo_sd.pdf?rlkey=kacjew76jafzvryj9gi48n4ea&st=guemsgnq&dl=0",
                 src: "https://www.dropbox.com/scl/fi/olnzxoevx0lojh80owqmj/014_ohqueamigo.mp3?rlkey=8uar7a01745duch2l6bboa5pt&st=iakfpbm9&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -173,7 +173,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/fxj1jgpnw1c5zzuusyp7i/016_cercadetisenor_sd.pdf?rlkey=1jvyox52f61oqy5fbe1ufns34&st=6omtskyz&dl=0",
                 src: "https://www.dropbox.com/scl/fi/b6m89mnvtjr8g6i19wtrn/016_cercadetisenor.mp3?rlkey=5km5ltpg9ys1ehda0tcecenwp&st=ggkrpbq7&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -184,7 +184,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/eu8tcfewddfuzg2t0ftm8/017_senorjesuslaluzdelsolsefue_sd.pdf?rlkey=s29nuv2i2s4a7w9kj8t5dovq8&st=homkf8ai&dl=0",
                 src: "https://www.dropbox.com/scl/fi/ysmcu5ht91bsrkgnw027t/017_senorjesuslaluzdelsolsefue.mp3?rlkey=dnlbdrutiwfyd1ln63kziphmw&st=4tvzwhk5&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -195,7 +195,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/rf57kpo7ri9exl961hdqa/018_gratoesdecirlahistoria_sd.pdf?rlkey=iuvtbm6l933s00j9kyiyhha78&st=wsrzjcyu&dl=0",
                 src: "https://www.dropbox.com/scl/fi/cxyab63m647n3tnqo5fsr/018_gratoesdecirlahistoria.mp3?rlkey=65myi8q17yjsilbklxhrlifjt&st=otbduniq&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
@@ -206,7 +206,7 @@
 				allowDownload: true,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/jgn9noasntn9hcekf35h4/019_oyescomoelevangelio_sd.pdf?rlkey=yekvod6hlcdphjl9bdsy2je5v&st=fgxptzq1&dl=0",
                 src: "https://www.dropbox.com/scl/fi/gtcq8qg4khiod6zsv64ld/019_oyescomoelevangelio.mp3?rlkey=rxbwqp15yez13g3y2svvca8bf&st=2afv68ea&dl=0",
                 references: [
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
